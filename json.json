@@ -1,9 +1,17 @@
-{
-    "registration_no": "",
-    "course": "",
-    "subject": "",
-    "name": "",
-    "father_name": "",
-    "mobile": "",
-    "email": ""
-}
+[
+    {
+        "registration_no": "",
+        "course": "",
+        "subject": "",
+        "name": "",
+        "father_name": "",
+        "mobile": "",
+        "email": ""
+    }
+    ,
+    {
+        "type": "",
+        "name": "",
+        "districts": ""
+    }
+]
